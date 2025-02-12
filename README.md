@@ -1,0 +1,26 @@
+# About me 🚮
+
+I am Adarsh Inaganti, commonly known as `ghanti`. I am a developer from Hyderabad, India 🇮🇳 . _I do not use GitHub at all (except when I feel like it)_.
+
+# My repositories 🧑‍💻
+
+They're just files my school asked me to do lmao don't stalk much
+
+# Tech Stack 💻
+
+-   Python
+-   HTML/CSS/JS
+-   React
+-   C/C++
+-   Java
+
+# Projects I've done 💪
+
+[GameHub](https://github.com/1tnahg/game-hub)
+
+# Socials 💬
+
+-   [Instagram](https://instagram.com/1tnahg)
+-   [LinkedIn](https://www.linkedin.com/in/adarshinaganti)
+-   [Reddit](https://reddit.com/user/ghantiofficial)
+-   [YouTube](https://www.youtube.com/channel/UCxRXNyWPPr4G3wp40-0G1Aw)
