@@ -20,7 +20,6 @@ They're just files my school asked me to do lmao don't stalk much
 
 # Socials 💬
 
--   [Instagram](https://instagram.com/1tnahg)
+-   [Instagram](https://instagram.com/gh4nti)
 -   [LinkedIn](https://www.linkedin.com/in/adarshinaganti)
--   [Reddit](https://reddit.com/user/ghantiofficial)
 -   [YouTube](https://www.youtube.com/channel/UCxRXNyWPPr4G3wp40-0G1Aw)
