@@ -15,7 +15,7 @@ They're just files my school asked me to do lmao don't stalk much
 -   Java
 
 # Projects I've done 💪
-- [GameHub](https://github.com/gh4nti/game-hub)
+- [GameHub](https://game-hub-seven-neon.vercel.app/)
 - [PilotProfile | F1 Driver Dashboard](https://nitrosyntax.github.io/f1-driver-dashboard/)
 
 # Socials 💬
