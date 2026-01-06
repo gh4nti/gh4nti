@@ -6,6 +6,12 @@ I am Adarsh Inaganti, commonly known as `ghanti`. I am a developer from Hyderaba
 
 They're just files my school asked me to do lmao don't stalk much
 
+# School work 🎓
+
+-   [sem2](https://github.com/gh4nti/sem2/)
+-   [sem3](https://github.com/gh4nti/sem3/)
+-   [sem4](https://github.com/gh4nti/sem4/)
+
 # Tech Stack 💻
 
 -   Python
@@ -14,9 +20,10 @@ They're just files my school asked me to do lmao don't stalk much
 -   C/C++
 -   Java
 
-# Projects I've done 💪
-- [GameHub](https://game-hub-seven-neon.vercel.app/)
-- [PilotProfile | F1 Driver Dashboard](https://nitrosyntax.github.io/f1-driver-dashboard/)
+# Personal projects 💪
+
+-   [GameHub | A search engine for games](https://game-hub-seven-neon.vercel.app/)
+-   [PilotProfile | F1 Driver Dashboard](https://nitrosyntax.github.io/f1-driver-dashboard/)
 
 # Socials 💬
 
