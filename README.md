@@ -1,6 +1,6 @@
 # About me 🚮
 
-I am Adarsh Inaganti, commonly known as `ghanti`. I am a developer from Hyderabad, India 🇮🇳 . _I do not use GitHub at all (except when I feel like it)_.
+I am Adarsh Inaganti, commonly known as `ghanti`. I am a developer from Hyderabad, India 🇮🇳 .
 
 # School work 🎓
 
