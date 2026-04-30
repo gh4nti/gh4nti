@@ -17,6 +17,7 @@ They're just files my school asked me to do lmao don't stalk much
 -   Python
 -   HTML/CSS/JS
 -   React
+-   Next.js
 -   C/C++
 -   Java
 
