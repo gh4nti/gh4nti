@@ -7,6 +7,7 @@ I am Adarsh Inaganti, commonly known as `ghanti`. I am a developer from Hyderaba
 -   [sem2](https://github.com/gh4nti/sem2/)
 -   [sem3](https://github.com/gh4nti/sem3/)
 -   [sem4](https://github.com/gh4nti/sem4/)
+-   [sem5](https://github.com/gh4nti/sem5/)
 
 # Tech Stack 💻
 
